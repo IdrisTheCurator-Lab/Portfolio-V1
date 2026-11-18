@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "title": "Idris TheCurator Studio | Product Designer",
+    "description": "Product designer qui conçoit des solutions numériques évolutives pour des marques, des produits et des plateformes."
+  },
+  "brand": "Idris TheCurator Studio",
+  "nav": {
+    "home": "Accueil",
+    "projects": "Projets",
+    "playground": "Laboratoire",
+    "contact": "Contact"
+  },
+  "status": "J'explore actuellement comment améliorer la confiance et la facilité d'usage des systèmes de paiement numériques dans les marchés émergents",
+  "hero": {
+    "badge": "Je suis Idris The Curator",
+    "line1": "Un ~ Product Designer",
+    "line2": "Qui Crée des Solutions Numériques Évolutives",
+    "intro": "Je conçois des produits centrés sur l'utilisateur qui simplifient les systèmes, simples comme complexes, et soutiennent une vraie croissance pour les entreprises. Avec plus de 4 ans d'expérience en conception de solutions numériques, j'ai travaillé sur des marques, produits et plateformes comme <tula>TulaPay</tula>, <kasoowa>Kasoowa</kasoowa>, <ease>Ease</ease>, <ulodge>ULodge</ulodge>, ainsi que sur bien d'autres explorations passionnantes.",
+    "placeholder": "Envoyez-moi un message",
+    "send": "Envoyer"
+  },
+  "customizer": {
+    "title": "Personnalisez le site",
+    "color": "Couleur de la page",
+    "language": "Langue",
+    "mode": "Mode d'affichage",
+    "system": "Système",
+    "light": "Clair",
+    "dark": "Sombre",
+    "custom": "Couleur personnalisée"
+  },
+  "about": {
+    "title": "Prada Me",
+    "certifications": "Certifications",
+    "experience": "Années d'expérience",
+    "tools": "Outils de design",
+    "brands": "Marques dans le monde",
+    "projects": "Projets réalisés"
+  },
+  "docs": {
+    "title": "Documents",
+    "resume": "CV",
+    "cases": "Études de cas",
+    "catalogues": "Catalogues de projets",
+    "gallery": "Galerie"
+  },
+  "dock": {
+    "home": "Accueil",
+    "about": "À propos",
+    "certifications": "Certifications",
+    "roles": "Rôles",
+    "services": "Services",
+    "projects": "Projets",
+    "partners": "Partenaires",
+    "testimonials": "Témoignages",
+    "pricing": "Tarifs",
+    "faq": "FAQ"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "title": "Idris TheCurator Studio | 产品设计师",
+    "description": "产品设计师，为品牌、产品和平台打造可扩展的数字解决方案。"
+  },
+  "brand": "Idris TheCurator Studio",
+  "nav": {
+    "home": "首页",
+    "projects": "项目",
+    "playground": "实验室",
+    "contact": "联系"
+  },
+  "status": "目前正在探索如何提升新兴市场数字支付系统的信任度与易用性",
+  "hero": {
+    "badge": "我是 Idris The Curator",
+    "line1": "一位产品设计师",
+    "line2": "打造可扩展的数字解决方案",
+    "intro": "我设计以用户为中心的产品，让简单与复杂的系统都变得清晰易用，并推动真实的业务增长。凭借 4 年以上的数字产品设计经验，我曾参与 <tula>TulaPay</tula>, <kasoowa>Kasoowa</kasoowa>, <ease>Ease</ease>, <ulodge>ULodge</ulodge> 等品牌、产品与平台的工作，以及许多其他精彩的探索。",
+    "placeholder": "给我留言",
+    "send": "发送"
+  },
+  "customizer": {
+    "title": "让网站更符合你的喜好",
+    "color": "页面颜色",
+    "language": "语言",
+    "mode": "显示模式",
+    "system": "跟随系统",
+    "light": "浅色",
+    "dark": "深色",
+    "custom": "自定义颜色"
+  },
+  "about": {
+    "title": "Prada Me",
+    "certifications": "认证",
+    "experience": "从业年限",
+    "tools": "设计工具",
+    "brands": "合作品牌",
+    "projects": "完成项目"
+  },
+  "docs": {
+    "title": "文档",
+    "resume": "简历",
+    "cases": "案例研究",
+    "catalogues": "项目目录",
+    "gallery": "图库"
+  },
+  "dock": {
+    "home": "首页",
+    "about": "关于",
+    "certifications": "认证",
+    "roles": "经历",
+    "services": "服务",
+    "projects": "项目",
+    "partners": "合作伙伴",
+    "testimonials": "评价",
+    "pricing": "价格",
+    "faq": "常见问题"
+  }
+}
